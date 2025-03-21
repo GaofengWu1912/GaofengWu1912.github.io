@@ -22,7 +22,7 @@ repository               : "gaofengwu1912/gaofengwu1912.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Woo.png"
+  avatar           : "https://github.com/GaofengWu1912/cv/blob/master/images/Woo.png"
   name             : "Gaofeng Wu"
   pronouns         : "Master"# example: "she/her"  
   bio              : "A second-year master's student from ShanghaiTech University."
