@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gaofeng Wu's Homepage"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
