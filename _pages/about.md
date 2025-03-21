@@ -25,17 +25,19 @@ I’m looking for a PhD position in Fall 2026 at USA, please contact me if you a
   * Brain Network Analysis
   * Generative Models
 
-* My research interests lie in the intersection of high-performance algorithms and their application in neurodevelopment and neurodegenerative disease analysis using multimodal data. During my graduate study, I am the core student member of the Chinese Baby Connectome Project (CBCP), where I gained in-depth knowledge in infant data collection and neuroimaging data analysis. Over the past year, I have been engaged in several significant projects published in IEEE EMBC, ISBI, OHBM, ISMRM and MICCAI workshop. My research interest is deep learning methods with its application in medical imaging, especially for neuroscience.
+* My research interests span artificial intelligence, data science and medical imaging analysis. During my M.S. studies, I focused on enhancing graph neural networks and graph transformer networks for application in healthcare field, particularly in early brain development and brain disorder diagnosis. Future, I want to explore large language models (LLMs) for potential applications in healthcare and medical imaging. 
+
+As a student member of the Chinese Baby Connectome Project (CBCP), I gained valuable experience in infant data collection and neuroimaging data analysis, deepening my understanding of the filed. Over the past year, I have been engaged in several significant projects published in MICCAI, ISBI, and ISMRM.
 
 # Skills & Hobbies #
 * Technical Skills
   * 💻 Python
   * 📊 Data Science
-  * 🧠 Neuroimage Processing
+  * 🧠 Medical Imaging Analysis
 * Hobbies
   * ⚽ Football
   * 🏊‍♂️ Swimming
-  * 🐈 Cats
+  * 🐈&🐕 Cats & Dogs
  
 # Awards #
 * School Outstanding Student, ShanghaiTech University  Dec 2024
