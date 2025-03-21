@@ -48,5 +48,8 @@ I’m looking for a PhD position in Fall 2026 at USA, please contact me if you a
 * English: CET-6 (518)
 
 # Internship #
-👨‍⚕️ Medical Student ()
+* 👨‍⚕️ Medical Student (on clerkship) Guangdong Provincial People's Hospital, Guangzhou, Guangdong, China  Mar 2022 - Feb 2023
+  * Conducted imaging examinations and drafted diagnostic imaging reports (e.g., MRI, CT, PET);
+  * Provided patient care assistance, including dressing changes;
+  * Assisted doctors during surgery. 
 
