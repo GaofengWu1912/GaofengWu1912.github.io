@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please kindly find my full resume [here](../assets/CV_of_GaofengWu_ShanghaiTech.pdf).
-
-Please kindly find my full resume <a href="../assets/CV_of_GaofengWu_ShanghaiTech.pdf" class="btn btn--primary">here</a>.
+Please kindly find my full resume <a href="../assets/CV_of_GaofengWu_ShanghaiTech.pdf">here</a>.
 
 
 
