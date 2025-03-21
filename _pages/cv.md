@@ -11,6 +11,11 @@ redirect_from:
 
 Please kindly find my full resume [here](../assets/CV_of_GaofengWu_ShanghaiTech.pdf).
 
+{% include cv-template.html %}
+Please kindly find my full resume <a href="{{ base_path }}/assets/CV_of_GaofengWu_ShanghaiTech.pdf" class="btn btn--primary">here</a>.
+
+
+
 Education
 ======
 * M.S. in Biomedical Engineering, ShanghaiTech University, Sep 2023 - Jun 2026
