@@ -18,16 +18,16 @@ I’m looking for a PhD position in Fall 2026 at USA, please contact me if you a
 * 🎓 B.S. in Medical Imaging, South China University of Technology  Sep 2018 - Jun 2023
 
 # My Research #
+* My research interests span artificial intelligence, data science and medical imaging analysis. During my M.S. studies, I focused on enhancing graph neural networks and graph transformer networks for application in healthcare field, particularly in early brain development and brain disorder diagnosis. Future, I want to explore large language models (LLMs) for potential applications in healthcare and medical imaging. 
+
+* As a student member of the Chinese Baby Connectome Project (CBCP), I gained valuable experience in infant data collection and neuroimaging data analysis, deepening my understanding of the filed. Over the past year, I have been engaged in several significant projects published in MICCAI, ISBI, and ISMRM.
+
 * Research Interest
   * Artificial Intelligence
   * Multimodal Learning
   * Medical Imaging Analysis
   * Brain Network Analysis
   * Generative Models
-
-* My research interests span artificial intelligence, data science and medical imaging analysis. During my M.S. studies, I focused on enhancing graph neural networks and graph transformer networks for application in healthcare field, particularly in early brain development and brain disorder diagnosis. Future, I want to explore large language models (LLMs) for potential applications in healthcare and medical imaging. 
-
-As a student member of the Chinese Baby Connectome Project (CBCP), I gained valuable experience in infant data collection and neuroimaging data analysis, deepening my understanding of the filed. Over the past year, I have been engaged in several significant projects published in MICCAI, ISBI, and ISMRM.
 
 # Skills & Hobbies #
 * Technical Skills
