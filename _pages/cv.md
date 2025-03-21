@@ -18,6 +18,10 @@ Education
 * M.S. in Biomedical Engineering, ShanghaiTech University, Sep 2023 - Jun 2026
 * B.S. in Medical Imaging, South China University of Technology, Sep 2018 - Jun 2023
 
+**My Research**
+======
+
+
 Internship experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -35,18 +39,6 @@ Skills & Hobbies
 * Hobbies
   * 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
