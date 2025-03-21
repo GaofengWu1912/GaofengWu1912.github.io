@@ -40,7 +40,7 @@ I’m looking for a PhD position in Fall 2026 at USA, please contact me if you a
   * 🐈&🐕 Cats & Dogs
  
 # Awards #
-* School Outstanding Student, ShanghaiTech University  Dec 2024
+* School Outstanding Student, ShanghaiTech University,  Dec 2024
 * School Outstanding Student Cadre, South China University of Technology  
 
 # Languages
