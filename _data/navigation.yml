@@ -25,9 +25,12 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - research: "Research"
+    url: /research/
     
-  - title: "CV"
-    url: /cv-json/
+  # - title: "CV"
+  #   url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
