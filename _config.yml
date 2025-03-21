@@ -13,7 +13,7 @@ title                    : "Gaofeng Wu' Personal Homepage"
 title_separator          : "-"
 name                     : &name "Gaofeng Wu"
 description              : &description "A second-year master's student from ShanghaiTech University."
-url                      : "https://gaofengwu1912.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://gaofengwu1912.github.io/cv" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gaofengwu1912/gaofengwu1912.github.io"
 
