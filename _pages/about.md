@@ -14,8 +14,8 @@ I’m looking for a PhD position in Fall 2026 at USA, please contact me if you a
 
 
 # Education #
-* 🎓 M.S. in Biomedical Engineering, ShanghaiTech University  Sep 2023 - Jun 2026
-* 🎓 B.S. in Medical Imaging, South China University of Technology  Sep 2018 - Jun 2023
+* 🎓 M.S. in Biomedical Engineering, ShanghaiTech University    Sep 2023 - Jun 2026
+* 🎓 B.S. in Medical Imaging, South China University of Technology    Sep 2018 - Jun 2023
 
 # My Research #
 * My research interests span artificial intelligence, data science and medical imaging analysis. During my M.S. studies, I focused on enhancing graph neural networks and graph transformer networks for application in healthcare field, particularly in early brain development and brain disorder diagnosis. Future, I want to explore large language models (LLMs) for potential applications in healthcare and medical imaging. 
@@ -48,7 +48,7 @@ I’m looking for a PhD position in Fall 2026 at USA, please contact me if you a
 * English: CET-6 (518)
 
 # Internship #
-* Medical Student (on clerkship) 👨‍⚕️ Guangdong Provincial People's Hospital, Guangzhou, Guangdong, China  Mar 2022 - Feb 2023
+* Medical Student (on clerkship) 👨‍⚕️ Guangdong Provincial People's Hospital, Guangzhou, Guangdong, China    Mar 2022 - Feb 2023
   * Conducted imaging examinations and drafted diagnostic imaging reports (e.g., MRI, CT, PET);
   * Provided patient care assistance, including dressing changes;
   * Assisted doctors during surgery. 
