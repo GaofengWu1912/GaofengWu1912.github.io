@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Gaofeng Wu"
 description              : &description "A second-year master's student from ShanghaiTech University."
 url                      : https://gaofengwu1912.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "https://github.com/GaofengWu1912/cv/blob/master" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cv/blob/master" # the subpath of your site, e.g. "/blog"
 repository               : "gaofengwu1912/gaofengwu1912.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
