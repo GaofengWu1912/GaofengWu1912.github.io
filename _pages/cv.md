@@ -12,7 +12,7 @@ redirect_from:
 Please kindly find my full resume [here](../assets/CV_of_GaofengWu_ShanghaiTech.pdf).
 
 {% include cv-template.html %}
-Please kindly find my full resume <a href="{{ base_path }}/assets/CV_of_GaofengWu_ShanghaiTech.pdf" class="btn btn--primary">here</a>.
+Please kindly find my full resume <a href="../assets/CV_of_GaofengWu_ShanghaiTech.pdf" class="btn btn--primary">here</a>.
 
 
 
