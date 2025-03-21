@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Gaofeng Wu (武高峰)! I am currently a second-year master's student in Biomedical Engineering at ShanghaiTech University, advised by Prof. [Han Zhang](https://bme.shanghaitech.edu.cn/2021/0326/c8204a62068/page.htm) I earned my bachelor's degree in Medical Imaging from South China University of Technology. For an extensive overview of my experience, please refer to my [Google Scholar](https://scholar.google.com/citations?user=YS_EKgEAAAAJ&hl=zh-CN) and <a href="../assets/CV_of_GaofengWu_ShanghaiTech.pdf">CV</a>.
+Hi, I'm Gaofeng Wu (武高峰)! I am currently a second-year master's student in Biomedical Engineering at ShanghaiTech University, advised by Prof. [Han Zhang](https://bme.shanghaitech.edu.cn/2021/0326/c8204a62068/page.htm). I earned my bachelor's degree in Medical Imaging from South China University of Technology. For an extensive overview of my experience, please refer to my [Google Scholar](https://scholar.google.com/citations?user=YS_EKgEAAAAJ&hl=zh-CN) and <a href="../assets/CV_of_GaofengWu_ShanghaiTech.pdf">CV</a>.
 
 I’m looking for a PhD position in Fall 2026 at USA, please contact me if you are interested in me!
 
