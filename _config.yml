@@ -26,7 +26,7 @@ author:
   pronouns         : "Master"# example: "she/her"  
   bio              : # "A second-year master's student from ShanghaiTech University."
   location         : "Shanghai, China"
-  employer         : ""
+  employer         : # ""
   uri              : # URL
   email            : "wugf2023@shanghaitech.edu.cn" 
 
