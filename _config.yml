@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Gaofeng Wu' Personal Homepage"
+title                    : "Gaofeng Wu' Homepage"
 title_separator          : "-"
 name                     : &name "Gaofeng Wu"
 description              : &description "A second-year master's student from ShanghaiTech University."
@@ -83,6 +83,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  poster:
+    title: 'Abstract'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
