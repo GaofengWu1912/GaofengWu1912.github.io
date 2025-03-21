@@ -24,10 +24,10 @@ Education
 
 Internship experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Medical student (on clerkship), Guangdong Provincial People's Hospital Guangzhou, Guangdong, China, Mar 2022 - Feb 2023
+  * Conducted imaging examinations and drafted diagnostic imaging reports (e.g., MRI, CT, PET);
+  * Provided patient care assistance, including dressing changes;
+  * Assisted doctors during surgery.
   
 Skills & Hobbies
 ======
