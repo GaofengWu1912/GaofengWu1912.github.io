@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Please kindly find my full resume [here](../assets/CV_of_GaofengWu_ShanghaiTech.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Biomedical Engineering, ShanghaiTech University, Sep 2023 - Jun 2026
+* B.S. in Medical Imaging, South China University of Technology, Sep 2018 - Jun 2023
 
 Work experience
 ======
