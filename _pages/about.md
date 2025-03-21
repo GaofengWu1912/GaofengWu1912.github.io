@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Gaofeng Wu (武高峰)! I am currently a second-year master's student in Biomedical Engineering at ShanghaiTech University, advised by Prof. [Han Zhang](https://bme.shanghaitech.edu.cn/2021/0326/c8204a62068/page.htm) My research interest is deep learning methods with its application in medical imaging, especially for neuroscience. For an extensive overview of my academic experience, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=YS_EKgEAAAAJ&hl=zh-CN) and [CV]().
+Hi, I'm Gaofeng Wu (武高峰)! I am currently a second-year master's student in Biomedical Engineering at ShanghaiTech University, advised by Prof. [Han Zhang](https://bme.shanghaitech.edu.cn/2021/0326/c8204a62068/page.htm) My research interest is deep learning methods with its application in medical imaging, especially for neuroscience. For an extensive overview of my academic experience, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=YS_EKgEAAAAJ&hl=zh-CN) and <a href="../assets/CV_of_GaofengWu_ShanghaiTech.pdf">CV</a>.
 I am planing to pursue a PhD in Fall 2026.
 
 
