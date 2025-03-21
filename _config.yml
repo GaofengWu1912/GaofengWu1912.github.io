@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Gaofeng Wu / Personal Homepage"
+title                    : "Gaofeng Wu' Personal Homepage"
 title_separator          : "-"
 name                     : &name "Gaofeng Wu"
 description              : &description "A second-year master's student from ShanghaiTech University."
