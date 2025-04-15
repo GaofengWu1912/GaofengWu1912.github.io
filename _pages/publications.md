@@ -16,7 +16,7 @@ Please kindly find my full publication list on [Google Scholar](https://scholar.
 
 # Conference #
 
-1. #Wu, G.#, Zhang, W., Zhu, Z., Cai, X., Hu, Y., Tao, T., Wang, L., Tao, Y., Tang, H., & Zhang, H.. Predicting Future Cognitive Development Using Past Brain fMRI With Spatiotemporal Graph Transformers Guided by Prior Information, ISBI 2025, Houston, USA, Apr. 14-17, 2025.
+1. # Wu, G. #, Zhang, W., Zhu, Z., Cai, X., Hu, Y., Tao, T., Wang, L., Tao, Y., Tang, H., & Zhang, H.. Predicting Future Cognitive Development Using Past Brain fMRI With Spatiotemporal Graph Transformers Guided by Prior Information, ISBI 2025, Houston, USA, Apr. 14-17, 2025.
 
 2. Zhu Z., #Wu, G.#, Deng H., Tao Y., Tao T., Wang W., Wang L., Lan Z., Yang M., Wang S., Liu J., Zhang H.. T2T-Bridge: Direct Diffusion Bridge Model for Thick-to-Thin Slice Infant MRI Reconstruction, ISBI 2025, Houston, USA, Apr. 14-17, 2025 (Oral).
 
