@@ -16,9 +16,10 @@ Please kindly find my full publication list on [Google Scholar](https://scholar.
 
 # Conference #
 
+1. Xie C.#, **Wu G.#**, Wang K., Zhu Z., Luo X., Liang Y., Quan F., Wu R., Huang X., Zhang H.. BEAM: Brainwave Empathy Assessment Model for Early Childhood, EMBC 2025 (Accepted).
 1. **Wu, G.**, Zhang, W., Zhu, Z., Cai, X., Hu, Y., Tao, T., Wang, L., Tao, Y., Tang, H., & Zhang, H.. Predicting Future Cognitive Development Using Past Brain fMRI With Spatiotemporal Graph Transformers Guided by Prior Information, ISBI 2025, Houston, USA, Apr. 14-17, 2025.
 
-2. Zhu Z., **Wu, G.**, Deng H., Tao Y., Tao T., Wang W., Wang L., Lan Z., Yang M., Wang S., Liu J., Zhang H.. T2T-Bridge: Direct Diffusion Bridge Model for Thick-to-Thin Slice Infant MRI Reconstruction, ISBI 2025, Houston, USA, Apr. 14-17, 2025 (Oral).
+2. Zhu Z.#, **Wu, G.#**, Deng H., Tao Y., Tao T., Wang W., Wang L., Lan Z., Yang M., Wang S., Liu J., Zhang H.. T2T-Bridge: Direct Diffusion Bridge Model for Thick-to-Thin Slice Infant MRI Reconstruction, ISBI 2025, Houston, USA, Apr. 14-17, 2025 (Oral).
 
 3. Tang, H., Wang, L., **Wu, G.**, Cai, X., Zhou, R., Luo, X., Liang, Y., Zhang, W., & Zhang, H.. Dynamic Gradient Modulation for Enhanced Resting-State fMRI Denoising, ISBI 2025, Houston, USA, Apr. 14-17, 2025.
 
